@@ -10,7 +10,7 @@ const AppConfig = {
     // Daftar kata kunci untuk menu navigasi.
     // Kata kunci pertama akan menjadi default untuk homepage.
     keywords: [
-        "Home Decor",
+        "Punk Hairstyle",
         "Taman Minimalis",
         "Dapur Modern",
         "Ruang Tamu",
